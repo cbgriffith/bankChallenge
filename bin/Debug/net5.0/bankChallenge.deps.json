@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bankChallenge/1.0.0": {
+        "runtime": {
+          "bankChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bankChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

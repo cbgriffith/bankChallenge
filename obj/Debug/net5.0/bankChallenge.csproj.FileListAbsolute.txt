@@ -1,0 +1,16 @@
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\bin\Debug\net5.0\bankChallenge.exe
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\bin\Debug\net5.0\bankChallenge.deps.json
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\bin\Debug\net5.0\bankChallenge.runtimeconfig.json
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\bin\Debug\net5.0\bankChallenge.runtimeconfig.dev.json
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\bin\Debug\net5.0\bankChallenge.dll
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\bin\Debug\net5.0\ref\bankChallenge.dll
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\bin\Debug\net5.0\bankChallenge.pdb
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\bankChallenge.csproj.AssemblyReference.cache
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\bankChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\bankChallenge.AssemblyInfoInputs.cache
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\bankChallenge.AssemblyInfo.cs
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\bankChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\bankChallenge.dll
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\ref\bankChallenge.dll
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\bankChallenge.pdb
+C:\Users\cbgri\workspace\csharp\exercises\bankChallenge\obj\Debug\net5.0\bankChallenge.genruntimeconfig.cache
